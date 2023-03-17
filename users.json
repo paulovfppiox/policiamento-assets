@@ -1,0 +1,11 @@
+[{
+		"nome": "Paulo Paiva",
+		"matricula": 42731,
+		"senha": 12345
+	},
+	{
+		"nome": "Jose Maria",
+		"matricula": 42722,
+		"senha": 12345
+	}
+]
